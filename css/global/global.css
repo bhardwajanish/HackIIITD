@@ -38,6 +38,8 @@
 }
 .g-font-size-18--xs--mod3 {
   font-size: 1.250rem !important;
+  text-align: center;
+  font-weight: bold;
 }
 .g-font-size-18--xs-mod2 {
   font-size: 1rem !important;
