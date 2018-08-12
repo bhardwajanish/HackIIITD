@@ -28,6 +28,10 @@
 .g-font-size-16--xs {
   font-size: 1rem !important;
 }
+.g-font-size-16--xsmodtime {
+  font-size: 1rem !important;
+  color: white;
+}
 
 .g-font-size-17--xs {
   font-size: 1.0625rem !important;
@@ -42,10 +46,14 @@
   font-weight: bold;
 }
 .g-font-size-18--xs-mod2 {
-  font-size: 1rem !important;
+  font-size: 1.25rem !important;
   font-weight: bold;
 }
-
+.g-font-size-18--xsmodtime {
+  font-size: 1rem !important;
+  font-weight: bold;
+  color: white;
+}
 .g-font-size-19--xs {
   font-size: 1.1875rem !important;
 }
